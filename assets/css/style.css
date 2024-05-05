@@ -3,8 +3,13 @@
     flex-direction: column;
     
 }
-aside .flex-container {
+/* aside .flex-container {
     display: flex;
     flex-wrap: wrap;
     
+} */
+img {
+    display: block;
+    max-width: 100%;
+
 }
