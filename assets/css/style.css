@@ -11,5 +11,9 @@
 img {
     display: block;
     max-width: 100%;
-
+    min-height: 600px;
+}
+wrapper {
+    max-width: 960px;
+    margin-inline: auto;
 }
